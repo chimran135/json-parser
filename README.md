@@ -1,2 +1,2 @@
 # json-parser
-A simple JSON Parser to import JSON.
+A simple JSON Parser to import JSON data.
